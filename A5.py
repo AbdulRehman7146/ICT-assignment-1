@@ -2,7 +2,7 @@ a = int(input("Enter R1: "))
 b = int(input("Enter R2: "))
 c = int(input("Enter R3: "))
 
-if a <= b and a <= b :
+if a <= b and a <= c :
 	smallest = a
 elif b <= a and b <= c :
 	smallest = b
